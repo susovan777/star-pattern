@@ -1,2 +1,2 @@
 # star-pattern
-Making Pyramid with star 
+Made Pattern with star
